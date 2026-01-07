@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Model ve veri dosyaları
+*.h5
+*.hdf5
+cifake/
+*.pkl
+*.pickle
+
+# Görsel çıktılar (opsiyonel - bunları da yükleyebilirsiniz)
+# *.png
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Diğer
+*.csv
+*.zip
+*.tar.gz

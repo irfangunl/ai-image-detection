@@ -1,0 +1,22 @@
+# AI Image Detection Project - Python 3.12 Uyumlu Versiyonlar
+
+# Temel Kütüphaneler
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Görselleştirme
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Görüntü İşleme
+opencv-python>=4.9.0
+
+# Makine Öğrenmesi
+scikit-learn>=1.4.0
+
+# Deep Learning (Python 3.12 için TensorFlow 2.16+)
+tensorflow>=2.16.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+ipykernel>=6.29.0
