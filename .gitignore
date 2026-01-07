@@ -15,7 +15,8 @@ ENV/
 # Model ve veri dosyaları
 *.h5
 *.hdf5
-cifake/
+cifake/*
+!cifake/.gitkeep
 *.pkl
 *.pickle
 
